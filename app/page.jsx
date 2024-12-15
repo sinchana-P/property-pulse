@@ -1,4 +1,5 @@
-// Any component that's a Page, its better to have a Page at the end 
+// Any component that's a Page, its better to have a Page at the end.
+// Each page is a component, these r actually rendered on the server by default.
 
 const HomePage = () => {
     return ( 
